@@ -1,80 +1,61 @@
-# 👋 Hi, I'm Abdul Moaiz  
-### Frontend Developer | JavaScript Enthusiast | UI Builder  
+👋 Hi, I'm Moaiz — Frontend Web Developer  
 
-I'm a passionate Frontend Developer who loves building clean, interactive, and responsive web apps.  
-I enjoy converting ideas into real, functional projects using **HTML, CSS, and JavaScript**.  
-Currently exploring **React.js** and **Tailwind CSS** to take my skills to the next level. 🚀
+I’m a passionate self-taught web developer who loves building clean, interactive, and responsive web applications.  
+From elegant UI designs to functional logic, I create projects that are both visually stunning and technically solid.  
 
----
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🧮 [Basic Calculator](https://github.com/moizificent/calculator)
-A simple yet elegant calculator built using **HTML, CSS, and JavaScript**.  
-Performs all basic arithmetic operations with a responsive and minimal UI.  
-
-**Tech Stack:** HTML, CSS, JavaScript  
-✨ *Beginner-friendly project showing DOM manipulation and logic.*
+### 🧮 [Stylish Calculator](https://github.com/moizificent/Calculator)
+A sleek and modern calculator built with **HTML, CSS, and JavaScript**.  
+Features a beautiful dark UI and handles all basic arithmetic operations with smooth button interactions.  
 
 ---
 
-### ✅ [Stylish Todo App](https://github.com/moizificent/Todo-App)
-A **modern, minimal, and feature-rich Todo App** with filters, priorities, and local storage.  
-Your tasks remain saved even after refresh — clean glassmorphism interface included.  
-
-**Features:**
-- Add / Edit / Delete tasks  
-- High, Normal & Low priorities  
-- JSON Import & Export  
-- Data saved in LocalStorage  
-
-**Tech Stack:** HTML, CSS, JavaScript  
+### ✅ [Todo App](https://github.com/moizificent/TodoApp)
+A **modern productivity tool** with advanced features like:
+- Task priorities (High, Normal, Low)
+- Filters for Pending / Completed tasks  
+- Local Storage support (auto-saves tasks)
+- JSON Export/Import functionality  
+> Built using vanilla JavaScript and clean CSS — lightweight, fast, and responsive.  
 
 ---
 
-### 🌤 [Premium Weather App](https://github.com/moizificent/Weather-App-Premium)
-A **portfolio-grade weather dashboard** that shows live temperature, humidity, and wind speed.  
-No API key needed — powered by Open-Meteo API with global city search support.  
-
-**Features:**
-- Real-time weather updates 🌡  
-- Humidity & Wind Speed 💨  
-- Auto weather icons ☁  
-- Mobile responsive layout 📱  
-
-**Tech Stack:** HTML, CSS, JavaScript, Open-Meteo API  
+### 🌤 [Weather App](https://github.com/moizificent/WeatherApp)
+A **premium weather dashboard** that displays real-time:
+- Temperature 🌡️  
+- Humidity 💧  
+- Wind Speed 💨  
+- City search with live API integration  
+> Built with HTML, CSS, and JavaScript using a weather API for real-time updates.  
 
 ---
 
-### 💰 [Expense Tracker](https://github.com/moizificent/Expense-Tracker)
-A **beautiful Expense Tracker App** that helps manage your daily income and expenses.  
-It stores all records locally and calculates total balance dynamically.
+### 💰 [Expense Tracker](https://github.com/moizificent/Expenses-tracker)
+A **beautiful and functional expense tracker app** that helps manage your budget effortlessly.
+- Add income and expenses easily  
+- Automatic balance calculation  
+- Interactive UI with LocalStorage persistence  
+> Perfect for tracking your daily spending in a clean, minimal interface.  
 
-**Features:**
-- Add & delete transactions  
-- Shows total, income, and expense  
-- LocalStorage data persistence  
-- Responsive dashboard-style UI  
 
-**Tech Stack:** HTML, CSS, JavaScript  
 
----
+## 🧠 Tech Stack
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+)  
+- **Design:** Responsive UI, Flexbox, Grid  
+- **Tools:** Git, GitHub, VS Code  
+- **Other Skills:** JSON, APIs, LocalStorage  
 
-## 🧠 Currently Learning
-- React.js ⚛️  
-- Tailwind CSS 🎨  
-- Git & GitHub 🚀  
-- Modern UI/UX Design  
 
----
+ 📫 Connect With Me
+- 💼 GitHub: [@moizificent](https://github.com/moizificent)  
+- 📧 Email: *sonnugee31@gmail.com*  
+- 💬 WhatsApp: [Click to Chat](https://wa.me/923289149766)  
 
-## 📫 Connect With Me  
-- 💼 [GitHub Profile](https://github.com/moizificent)  
-- 💬 WhatsApp: [Chat on WhatsApp](https://wa.me/923289149766)  
-- 🌐 Portfolio: *(Coming Soon...)*  
 
----
 
-> *"Code. Learn. Improve. Repeat."*  
-💙 _— Abdul Moaiz_
+>  “Code is like art — every line tells a story.”  
+>  *Moizificent*
+
 
